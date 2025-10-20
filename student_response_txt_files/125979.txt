@@ -1,0 +1,3 @@
+Good Morning Class,
+
+For question number 4 everything worked out fine until the very last step where he or she did not subtract the given angle minus 180 you do this because it's in quadrant number two. Other than that the problem was worked out fine it was just the very last step. When I solved for this angle the answer I got was 92.34 degrees with a vector strength of 6.6185
